@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpaceCore912
 - 👀 I’m interested in Website development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on simple websites creaion
+- 💞️ I’m looking to collaborate on simple websites creation
 - 📫 How to reach me on Twitter: SpaceCore912
 
 <!---
